@@ -1,0 +1,1 @@
+# stripe-trash-project
